@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "googleads.g.doubleclick.net",
+        "pagead2.googlesyndication.com",
+        "adservice.google.com",
+        "doubleclick.net",
+        "admob.com",
+
+        "tiktokv.com",
+        "log.tiktokv.com",
+        "ads.tiktok.com",
+
+        "biliapi.com",
+        "cm.bilibili.com",
+        "s1.hdslb.com",
+
+        "facebook.com",
+        "ads.facebook.com",
+        "connect.facebook.net",
+
+        "instagram.com",
+        "ads.instagram.com",
+
+        "ad.yahoo.com",
+        "ads.yahoo.com",
+
+        "adserver.snapchat.com",
+
+        "unityads.unity3d.com",
+        "ads.pubmatic.com",
+        "ads.exoclick.com",
+        "ads.mopub.com",
+        "ads.applovin.com"
+      ],
+      "action": "reject"
+    }
+  ]
+}
